@@ -1,0 +1,4 @@
+# AutomaticZhangLaoShi
+
+
+![Screenshot](EXAMPLE.png)
